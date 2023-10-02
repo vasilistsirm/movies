@@ -3,9 +3,11 @@ This is a back-end project using SpringBoot and mongo-db to create the tables. T
     "reviewBody": "" , 
     "imdbId": ""
 }.).
-After setting up and running the app, open a browser with link localhost:8080. This project can be used to implement your own front-end project.
-You will need to create a mongo database, and in a .env file type something of this format: 
+You will alse need to create a mongo database, and in a .env file(hidden for my safety) type something of this format: 
 MONGO_DATABASE=" "
 MONGO_USER=" "
 MONGO_PASSWORD=" "
 MONGO_CLUSTER=" ".
+
+After setting up and running the app, open a browser with link localhost:8080. This project can be used to implement your own front-end project.
+
